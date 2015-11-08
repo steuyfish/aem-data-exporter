@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+src/main/resources/META-INF/vault/definition/.content.xml
+src/main/resources/META-INF/vault/filter.xml
+src/main/resources/META-INF/vault/properties.xml
+*.zip
